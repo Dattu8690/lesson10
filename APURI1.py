@@ -20,3 +20,16 @@ if st.button("翻訳"):
      "eat":"イート",
      "happy":"ハッピー",
      "beautiful":"ビューティフル"}
+
+ eitango2 = {
+    "Hello":"こんにちは",
+    "apple":"りんご",
+    "book" :"本",
+    "school":"学校",
+    "friend":"友達",
+    "teacher":"先生",
+    "study":"勉強",
+    "play":"遊ぶ",
+    "eat":"食べる",
+    "happy":"幸せ",
+    "beautiful":"美しい"}
