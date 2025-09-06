@@ -3,5 +3,5 @@ import streamlit as st
 st.title("English解読マシーン")
 
 
-
+import random
 
