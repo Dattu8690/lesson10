@@ -8,14 +8,14 @@ if 'eitango' in st.session_state and st.session_state.eitango:
 
 
 eitango = {
-    "Hello":"ハロー"
-    "apple":"アップル"
-    "book" : "ブック"
-    "school":"スクール"
-    "friend":"フレンド"
-    "teacher": "ティーチャー"
-    "study":"スタディ"
-    "play":"プレイ"
-    "eat":"イート"
-    "happy":"ハッピー"
+    "Hello":"ハロー",
+    "apple":"アップル",
+    "book" : "ブック",
+    "school":"スクール",
+    "friend":"フレンド",
+    "teacher": "ティーチャー",
+    "study":"スタディ",
+    "play":"プレイ",
+    "eat":"イート",
+    "happy":"ハッピー",
     "beautiful":"ビューティフル"}
