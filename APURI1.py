@@ -33,3 +33,5 @@ if st.button("翻訳"):
     "eat":"食べる",
     "happy":"幸せ",
     "beautiful":"美しい"}
+ 
+ st.session_state.num = eitango[En]
