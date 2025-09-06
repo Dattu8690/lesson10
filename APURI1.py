@@ -7,3 +7,6 @@ if 'eitango' in st.session_state and st.session_state.eitango:
     st.write("サイドページで翻訳し、表示します。")
 
 
+eitango = {
+    "Hello":"ハロー"
+    ""}
