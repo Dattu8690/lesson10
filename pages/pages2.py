@@ -23,4 +23,13 @@ eitango = {
      "doctor":"ドクター",
      "clock":"クロック",
      "color":"カラー",
-     "fish":"フィッシュ"}
+     "fish":"フィッシュ",
+     "zoo":"動物園",
+     "computer":"パソコン",
+     "shark":"サメ",
+     "orca":"シャチ",
+     "human":"人間",
+     "money":"お金",
+     "gum":"ガム",
+     "sun":"太陽",
+     "key":"鍵"}
