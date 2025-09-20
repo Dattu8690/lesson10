@@ -9,7 +9,16 @@ eitango = {
      "play":"プレイ",
      "eat":"イート",
      "happy":"ハッピー",
-     "beautiful":"ビューティフル"}
+     "beautiful":"ビューティフル",
+     "car":"カア",
+     "sleep":"スリープ",
+     "soccer":"サッカー",
+     "bed":"ベッド",
+     "dog":"ドッグ",
+     "doctor":"ドクター",
+     "clock":"クロック",
+     "color":"カラー",
+     "fish":"フィッシュ"}
 
 eitango2 = {
     "Hello":"こんにちは",

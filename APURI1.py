@@ -19,7 +19,16 @@ if st.button("翻訳"):
      "play":"プレイ",
      "eat":"イート",
      "happy":"ハッピー",
-     "beautiful":"ビューティフル"}
+     "beautiful":"ビューティフル",
+     "car":"カア",
+     "sleep":"スリープ",
+     "soccer":"サッカー",
+     "bed":"ベッド",
+     "dog":"ドッグ",
+     "doctor":"ドクター",
+     "clock":"クロック",
+     "color":"カラー",
+     "fish":"フィッシュ"}
 
  eitango2 = {
     "Hello":"こんにちは",
@@ -32,6 +41,15 @@ if st.button("翻訳"):
     "play":"遊ぶ",
     "eat":"食べる",
     "happy":"幸せ",
-    "beautiful":"美しい"}
+    "beautiful":"美しい",
+    "car":"車",
+    "sleep":"寝る",
+    "soccer":"サッカー",
+    "bed":"ベッド",
+    "dog":"犬",
+    "doctor":"医者",
+    "clock":"時計",
+    "color":"色",
+    "fish":"魚"}
  
  st.session_state.English= eitango[En]
