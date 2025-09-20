@@ -5,7 +5,7 @@ st.title("English解読マシーン")
 if 'English' not in st.session_state:
     st.session_state.English = ""
 if 'English2' not in st.session_state:
-    st.session_state.English = ""
+    st.session_state.English2 = ""
 
 En = st.text_input("翻訳したい英単語を入力してください")
 if st.button("翻訳"):
