@@ -5,11 +5,11 @@ st.title("English解読マシーン")
 if 'English' not in st.session_state:
     st.session_state.English = ""
 if 'English2' not in st.session_state:
-    st.session_state.English = ""   
+    st.session_state.English = ""
 
 En = st.text_input("翻訳したい英単語を入力してください")
 if st.button("翻訳"):
- 
+
  eitango = {
      "Hello":"ハロー",
      "apple":"アップル",
@@ -31,8 +31,15 @@ if st.button("翻訳"):
      "clock":"クロック",
      "color":"カラー",
      "fish":"フィッシュ",
-     "Die":"ダーイ"
-     }
+     "zoo":"ズウ",
+     "computer":"コンピューター",
+     "shark":"シャーク",
+     "orca":"オルカ",
+     "human":"ヒューマン",
+     "money":"マニー",
+     "gum":"ガム",
+     "sun":"サン",
+     "key":"キー"}
 
  eitango2 = {
     "Hello":"こんにちは",
@@ -54,9 +61,16 @@ if st.button("翻訳"):
     "doctor":"医者",
     "clock":"時計",
     "color":"色",
-    "color":"色",
     "fish":"魚",
-    "Die":"死ね"}
+    "zoo":"動物園",
+    "computer":"パソコン",
+    "shark":"サメ",
+    "orca":"シャチ",
+    "human":"人間",
+    "money":"お金",
+    "gum":"ガム",
+    "sun":"太陽",
+    "key":"鍵"}
  
-st.session_state.English= eitango[En]
-st.session_state.English2= eitango2[En]
+ st.session_state.English= eitango[En]
+ st.session_state.English2= eitango2[En]
