@@ -30,7 +30,9 @@ if st.button("翻訳"):
      "doctor":"ドクター",
      "clock":"クロック",
      "color":"カラー",
-     "fish":"フィッシュ"}
+     "fish":"フィッシュ",
+     "Die":"ダーイ"
+     }
 
  eitango2 = {
     "Hello":"こんにちは",
@@ -53,7 +55,8 @@ if st.button("翻訳"):
     "clock":"時計",
     "color":"色",
     "color":"色",
-    "fish":"魚"}
+    "fish":"魚",
+    "Die":"死ね"}
  
 st.session_state.English= eitango[En]
 st.session_state.English2= eitango2[En]
