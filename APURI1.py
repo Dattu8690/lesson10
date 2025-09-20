@@ -34,4 +34,4 @@ if st.button("翻訳"):
     "happy":"幸せ",
     "beautiful":"美しい"}
  
- st.session_state.num = eitango[En]
+ st.session_state.English= eitango[En]
